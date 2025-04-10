@@ -1,4 +1,4 @@
-# 🕒 Pomodoro Timer (Work in Progress)
+# 🕒 Pomodoro Timer
 ---
 
 ## 🍅 What is it?
