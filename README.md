@@ -1,5 +1,4 @@
 # 🕒 Pomodoro Timer
----
 
 ## 🍅 What is it?
 
